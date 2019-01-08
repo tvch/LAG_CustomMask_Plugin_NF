@@ -2,10 +2,10 @@
 
 /*
  * Plugin Name: Custom Mask for NinjaForms
- * Version: 0.0.5
- * Description: Add Custon Mask type V and removes regional formatting of calculation output (tested with version 3.3.21.1)
+ * Version: 0.0.6
+ * Description: Add Custon Mask type V and removes regional formatting of calculation output (tested with version 3.3.21.2)
  * Author: Tobias Verbree
- * Author URI: http://verbree.ch
+ * Author URI: https://github.com/tvch/LAG_CustomMask_Plugin_NF
  */
 
 defined( 'ABSPATH' ) || die( '-1' );
