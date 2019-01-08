@@ -2,7 +2,7 @@
 
 /*
  * Plugin Name: Custom Mask for NinjaForms
- * Version: 0.0.6
+ * Version: 0.0.7
  * Description: Add Custon Mask type V and removes regional formatting of calculation output (tested with version 3.3.21.2)
  * Author: Tobias Verbree
  * Author URI: https://github.com/tvch/LAG_CustomMask_Plugin_NF
@@ -27,7 +27,7 @@ final class LAG_CustomMask_Plugin
 	public function custom_admin_notice() { 
 	
 		echo '<div class="notice notice-info is-dismissible"><p>';
-		echo 'Create a Backup for NinjaForms Plugin before attemping to update it. After the update make shure that the custom input mask and the calculations are still working';
+		echo 'Create a Backup of NinjaForms Plugin before attemping to update it. After the update make sure that the custom input mask and the calculations are still working';
 		echo '</p></div>';
 	
 	}
