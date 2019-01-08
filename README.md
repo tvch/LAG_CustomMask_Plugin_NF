@@ -1,5 +1,5 @@
 # LAG_CustomMask_Plugin
 
  * Plugin Name: Custom Mask for NinjaForms
- * Version: 0.0.7
- * Description: Add Custon Mask type V and removes regional formatting of calculation output (tested with version 3.3.21.2)
+ * Version: 0.0.8
+ * Description: Add custom Mask type V and removes regional formatting of calculation output (tested with version 3.3.21.2)
